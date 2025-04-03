@@ -85,4 +85,4 @@ For development work:
 1. Each team member should work on different features
 2. Implement functionality in separate .py files for modular code organization
 3. Create a directory structure that supports selection of different companies
-4. Test PDF generation with various inputs
+4. Test PDF generation with various inputs# FINM3422-Coding-Project-1
